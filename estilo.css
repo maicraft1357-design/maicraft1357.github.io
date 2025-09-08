@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: rgb(145, 0, 0);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+.contenedor {
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    font-size: xx-large;
+    padding: 5%;
+}
+
+p{
+    font-size: xx-large;
+    padding: 5%;
+}
+
+a{
+    font-size: xx-large;
+    padding: 10%;
+}
+
+
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
+
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: rgb(132, 3, 31);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 5%;
+}
+
+img{
+    font-size: xx-large;
+    padding: 5%;
+}
+
+img {
+  width: 200px; /* Establece el ancho de la imagen */
+  height: 200px; /* Establece el alto de la imagen */
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+
+    margin: 0;
+}
+
+.contenedor{
+    background: rgb(157, 7, 7);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 5%;
+}
+
+img{
+    font-size: xx-large;
+    padding: 5%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
